@@ -3,3 +3,6 @@ git test project
 
 git test project(rejected)
 : 01.26.2024
+
+data deletion(you r idiot cat)
+: 01.26.2024
