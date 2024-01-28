@@ -6,3 +6,6 @@ git test project(rejected)
 
 data deletion(you r idiot cat)
 : 01.26.2024
+
+cat soup connection
+: 01.28.2024
